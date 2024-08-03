@@ -584,11 +584,11 @@ h6 {
 }
 
 #services .box {
-  padding: 30px;
+  padding: 10px 20px; /* reduce the top and bottom padding */
   position: relative;
   overflow: hidden;
   border-radius: 20px;
-  margin: 0 10px 40px 10px;
+  margin: 0 2px 30px 2px; /* reduce the bottom margin and left/right margin */
   background: #dddddd;
   box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.1);
   transition: all 0.3s ease-in-out;
